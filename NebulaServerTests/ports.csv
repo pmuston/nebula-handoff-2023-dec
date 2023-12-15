@@ -1,0 +1,6 @@
+service,port
+rt-values,8004
+displays,8010
+docs-server,8008
+control-studio,8006
+nebula-quickview,8000
